@@ -107,11 +107,13 @@ main {
     .sedans {
         border-top-left-radius: 1.8%;
         border-bottom-left-radius: 1.8%;
+        border-top-right-radius: 0%;
     }
 
     .luxury {
         border-top-right-radius: 1.8%;
         border-bottom-right-radius: 1.8%;
+        border-bottom-left-radius: 0%
     }
 }
 
