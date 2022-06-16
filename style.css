@@ -135,7 +135,7 @@ main {
 .description {
     margin-top: 2rem ;
     margin-bottom: 5rem;
-    font-size: 2ch;
+    font-size: .9rem;
     line-height: 1.5rem;
     font-family: var(--ff-Lexend);
     color: var(--clr-white)
